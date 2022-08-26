@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolas Smael
+Hi 🙋‍♂️ My name is Nicolas Smael 
 =====================================================================================================================================
 
 Front End Developer
@@ -8,8 +8,10 @@ Front End Developer
 * 🖥️  See my portfolio at [Portfolio](http://smaelnicolas.com.ar)
 * ✉️  You can contact me at [nico.smael@gmail.com](mailto:nico.smael@gmail.com)
 * 🚀  I'm currently working on [CoderHouse](https://www.coderhouse.com/)
+* ✨  Front end with React Js
 * 🧠  I'm learning SQL & Testing QA
-* 🤝  I'm open to collaborating on any Front End project
+* 👀  Always looking for ways to improve my knowledge or acquire new ones 
+* 🤝  I'm open to collaborating on any Front End project
 
 ### Skills
 
