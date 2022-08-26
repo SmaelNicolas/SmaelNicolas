@@ -7,7 +7,7 @@ Front End Developer
 *   🌍  I'm based in Argentina
 *   🖥️  See my portfolio at [Portfolio](http://smaelnicolas.com.ar)
 *   ✉️  You can contact me at [nico.smael@gmail.com](mailto:nico.smael@gmail.com)
-*   🚀  I'm currently working on [WiiDooWebs](http://wiidoowebs.com.ar)
+*   🚀  I'm currently working on [CoderHouse](https://www.coderhouse.com/)
 *   🧠  I'm learning SQL & Testing QA
 *   🤝  I'm open to collaborating on any Front End project### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
