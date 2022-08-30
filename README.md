@@ -7,7 +7,7 @@ Front End Developer
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Portfolio](http://smaelnicolas.com.ar)
 * ✉️  You can contact me at [nico.smael@gmail.com](mailto:nico.smael@gmail.com)
-* 🚀  I'm currently working on [CoderHouse](https://www.coderhouse.com/)
+* 🚀  I'm currently working at [CoderHouse](https://www.coderhouse.com/)
 * ✨  Front end with React Js
 * 🧠  I'm learning SQL & Testing QA
 * 👀  Always looking for ways to improve my knowledge or acquire new ones 
