@@ -9,7 +9,7 @@ Front End Developer
 * ✉️  You can contact me at [nico.smael@gmail.com](mailto:nico.smael@gmail.com)
 * 🚀  I'm currently working at [CoderHouse](https://www.coderhouse.com/)
 * ✨  Front end with React Js
-* 🧠  I'm learning SQL & Testing QA
+* 🧠  I'm learning React Native while improving my React Js skills
 * 👀  Always looking for ways to improve my knowledge or acquire new ones 
 * 🤝  I'm open to collaborating on any Front End project
 
