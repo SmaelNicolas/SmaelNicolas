@@ -15,7 +15,7 @@ Front End Developer
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -33,7 +33,7 @@ Front End Developer
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/NS#4512" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SmaelNicolas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/smaeln" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://discord.com/users/NS#4512" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SmaelNicolas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/smaeln" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
@@ -44,4 +44,4 @@ Front End Developer
 <a href="http://www.github.com/SmaelNicolas"><img src="https://activity-graph.herokuapp.com/graph?username=SmaelNicolas&bg_color=1c1917&color=3382ed&line=10b981&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<p><img align="left" height="158" src="https://github-readme-stats.vercel.app/api/top-langs?username=SmaelNicolas&bg_color=1c1917&color=3382ed&show_icons=true&line=10b981&point=3382ed&area_color=1c1917&locale=en&layout=compact" alt="SmaelNicolas" /></p>
+<p><img align="center" height="158" src="https://github-readme-stats.vercel.app/api/top-langs?username=SmaelNicolas&bg_color=1c1917&color=3382ed&show_icons=true&line=10b981&point=3382ed&area_color=1c1917&locale=en&layout=compact" alt="SmaelNicolas" /></p>
