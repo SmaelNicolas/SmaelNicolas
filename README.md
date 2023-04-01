@@ -41,7 +41,6 @@ Front End Developer
 
 <a href="http://www.github.com/SmaelNicolas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmaelNicolas&stroke=3382ed&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=3382ed&currStreakLabel=22c55e&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/SmaelNicolas"><img src="https://activity-graph.herokuapp.com/graph?username=SmaelNicolas&bg_color=1c1917&color=3382ed&line=10b981&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 <p><img align="left" height="158" src="https://github-readme-stats.vercel.app/api/top-langs?username=SmaelNicolas&bg_color=1c1917&color=3382ed&show_icons=true&line=10b981&point=3382ed&area_color=1c1917&locale=en&layout=compact" alt="SmaelNicolas" /></p>
+
+![SmaelNicolas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SmaelNicolas&theme=github-compact)
