@@ -8,6 +8,7 @@ Front End Developer
 * 🖥️  See my portfolio at [Portfolio](http://smaelnicolas.com.ar)
 * ✉️  You can contact me at [nico.smael@gmail.com](mailto:nico.smael@gmail.com)
 * 🚀  I'm currently working at [CoderHouse](https://www.coderhouse.com/)
+* 🏆  Contributing to [@ProgramadoresArgentina](https://www.linkedin.com/company/programadores-argentina/)
 * ✨  Front end with React Js
 * 🧠  I'm starting to learn backend with js while improving my React Js skills
 * 👀  Always looking for ways to improve my knowledge or acquire new ones 
